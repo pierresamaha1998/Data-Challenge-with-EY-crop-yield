@@ -1,5 +1,5 @@
 # Data-Challenge-with-EY-crop-yield
-2023 EY Open Science Data Challenge about crop forecasting using satellite data
+2023 EY Open Science Data Challenge about crop forecasting using satellite data - one of the 3 finalists of the Challenge Level 2 France!
 
 ## Overview 
 
